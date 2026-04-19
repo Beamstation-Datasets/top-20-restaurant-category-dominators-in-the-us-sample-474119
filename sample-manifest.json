@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f7b32939-9918-4605-b46c-6fa7a4f032ee",
+  "export_job_id": "eb1065ce-d5b0-4b68-b4ab-145fb976bda7",
   "id_short": 474119,
-  "published_at": "2026-04-12T19:18:05Z",
+  "published_at": "2026-04-19T07:37:52Z",
   "repo_name": "top-20-restaurant-category-dominators-in-the-us-sample-474119",
   "sample_asset_name": "beamstation_474119_restaurants-us-us_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/474119/beamstation_474119_restaurants-us-us_SAMPLE_DIST.csv",
   "sample_records": 11,
-  "sample_sha256": "ac3480b7874ebcce084b7e79eb5edd614546ac858340d9fee9b42437e11b9e33",
-  "sample_size_bytes": 56541,
-  "total_records": 115
+  "sample_sha256": "f8635d19a92d26158743473fb8f6553bc16d36ebf947ab94871235b39bd0e237",
+  "sample_size_bytes": 56831,
+  "total_records": 111
 }
