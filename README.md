@@ -1,6 +1,6 @@
 # Top 20 Restaurant Category Dominators in the US
 
-> Free BeamStation sample export with 11 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `474119` |
 | Location | United States |
 | Category | Restaurants |
-| Full dataset size | 111 records |
-| Free sample size | 11 records (9.91%) |
-| Last export | 2026-04-15T07:33:36.134236+00:00 |
+| Full dataset size | 4 records |
+| Free sample size | 1 records (25.0%) |
+| Last export | 2026-04-22T14:05:37.183049+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-20-restaurant-category-dominators-in-the-us-sample-474119/releases/download/sample-latest/beamstation_474119_restaurants-us-us_SAMPLE_DIST.csv) |
 
 ## What is in this sample
