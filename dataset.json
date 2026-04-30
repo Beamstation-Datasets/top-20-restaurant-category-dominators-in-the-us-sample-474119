@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 20 ranked high-volume restaurants per category in every US state. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 20 Restaurant Category Dominators in the US",
-  "export_job_id": "39205e1b-2891-4e41-8a96-504c195fc13c",
+  "export_job_id": "36cca0eb-473a-4e69-b206-a2662fe7c328",
   "github_org": "Beamstation-Datasets",
   "id_short": 474119,
   "location_name": "United States",
   "location_type": "country",
   "repo_name": "top-20-restaurant-category-dominators-in-the-us-sample-474119",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/474119/beamstation_474119_restaurants-us-us_SAMPLE_DIST.csv",
-  "sample_pct": 25.0,
+  "sample_pct": 50.0,
   "sample_records": 1,
-  "sample_sha256": "22b4bb42250c9dcab0bf80f5b13f11e59433017feb56bdef7b292cb69cdf6825",
-  "sample_size_bytes": 20701,
-  "total_records": 4,
-  "updated_at": "2026-04-22T14:05:37.183049+00:00"
+  "sample_sha256": "5a15a38c67a7cf018abce1cc9190b5a25447a3cc824a580f1476f7641efb06a0",
+  "sample_size_bytes": 20408,
+  "total_records": 2,
+  "updated_at": "2026-04-29T14:43:25.868967+00:00"
 }
