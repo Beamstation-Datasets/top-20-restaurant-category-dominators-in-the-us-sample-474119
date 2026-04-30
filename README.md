@@ -9,9 +9,9 @@
 | Dataset ID | `474119` |
 | Location | United States |
 | Category | Restaurants |
-| Full dataset size | 4 records |
-| Free sample size | 1 records (25.0%) |
-| Last export | 2026-04-22T14:05:37.183049+00:00 |
+| Full dataset size | 2 records |
+| Free sample size | 1 records (50.0%) |
+| Last export | 2026-04-29T14:43:25.868967+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-20-restaurant-category-dominators-in-the-us-sample-474119/releases/download/sample-latest/beamstation_474119_restaurants-us-us_SAMPLE_DIST.csv) |
 
 ## What is in this sample
